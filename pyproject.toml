@@ -1,5 +1,5 @@
 [project]
-name = "test-public"
+name = "test_public_pkg"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,6 +12,3 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
 where = ["."]
-
-[project.urls]
-"Homepage" = "github.com"
